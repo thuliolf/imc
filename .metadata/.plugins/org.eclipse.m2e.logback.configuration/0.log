@@ -15,3 +15,17 @@
 2016-04-17 16:42:31,262 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\imc\imc\src\main\resources
 2016-04-17 16:42:31,264 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-04-17 16:42:31,271 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\imc\imc\src\test\resources
+2016-04-17 16:53:32,514 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: unipe:imc:0.0.1-SNAPSHOT @ C:\Git\imc\imc\pom.xml.
+2016-04-17 16:53:33,876 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:53:33,876 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\imc\imc\src\main\resources
+2016-04-17 16:53:34,802 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: unipe:imc:0.0.1-SNAPSHOT @ C:\Git\imc\imc\pom.xml.
+2016-04-17 16:53:34,805 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:53:34,810 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\imc\imc\src\test\resources
+2016-04-17 16:53:35,870 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:53:35,871 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\imc\imc\src\main\resources
+2016-04-17 16:53:35,873 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:53:35,874 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\imc\imc\src\test\resources
+2016-04-17 16:53:55,764 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:53:55,765 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\imc\imc\src\main\resources
+2016-04-17 16:53:55,769 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:53:55,769 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\imc\imc\src\test\resources
