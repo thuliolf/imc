@@ -1,0 +1,5 @@
+package br.pb.unipe.imc;
+
+public class CalcIMC {
+
+}
